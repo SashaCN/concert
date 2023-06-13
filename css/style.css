@@ -24,10 +24,12 @@ body{
 }
 
 header{
+  position: relative;
   padding: 221px 0 158px;
   background: #1f1f1f url(../img/bg_header.jpg) no-repeat;
   background-size: cover;
 }
+
 
 header .wrapper{
   column-gap: 55px;
